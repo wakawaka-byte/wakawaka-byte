@@ -24,7 +24,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/pratyush-who/count.svg)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=pratyush-who&theme=react)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Pratyush-who&theme=react)
 
 
 
